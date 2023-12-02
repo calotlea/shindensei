@@ -1,4 +1,4 @@
-# Shindensai
+# Shindensei
 
 ![Banner](img/banner.png)
 
