@@ -1,5 +1,7 @@
 # Shindensai
 
+![Banner](img/banner.png)
+
 The name ***"新電性" (Shindensei)*** means "New Electrical Sensuality."
 
 **Shindensai** is an advanced electrostimulation machine development kit, inspired by the innovative 
