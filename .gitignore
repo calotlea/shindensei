@@ -1,3 +1,6 @@
+# Firmware build
+firmware/build
+
 # Various
 /build/
 /.settings/
