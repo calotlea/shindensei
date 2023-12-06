@@ -16,6 +16,23 @@
   )
 
 
+  (sheet (at 120.65 45.72) (size 26.67 21.59) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3e5c1b33-5ed9-4b22-9ee7-33ede98d7ee9)
+    (property "Sheetname" "Pulse Control" (at 120.65 45.0084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "pulse_control.kicad_sch" (at 120.65 67.8946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "shindensei"
+        (path "/958b377d-2cd7-45e0-91dd-b2d6e2ab8826" (page "2"))
+      )
+    )
+  )
+
   (sheet (at 143.51 88.9) (size 33.02 29.21) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
