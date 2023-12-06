@@ -26,13 +26,19 @@ To ensure optimal functionality and ease of design, the following plugins are ne
 Contributions to the Shindensei PCB design are welcome. Whether it's feature enhancement, bug fixing, or documentation, 
 your input is valuable. Please follow the contribution guidelines outlined in our repository.
 
-## Support and Community
-- Join our community forum for discussions, insights, and support related to the Shindensei PCB design.
-- For direct support, open an issue on the GitHub repository or contact the maintainers.
+## Schematic Explanation
+
+WiP
+
+### Switch Matrix
+
+![Switch Matrix](../img/switch_matrix.png)
+
+ * Select one output pair at the time.
 
 ## Acknowledgments
-A special thanks to the contributors and maintainers of KiCad, KiCad Action Scripts, and FreeRouting for their 
-invaluable tools and resources that make this project possible.
+A special thanks to the contributors and maintainers of [NeoDK](https://github.com/Onwrikbaar/NeoDK)
+and **@mike.st_** (Discord).
 
 ---
 
