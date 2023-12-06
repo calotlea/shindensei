@@ -69,8 +69,12 @@ Before diving into the enhancements, familiarize yourself with the original NeoD
 - **BLE Connectivity**: Design of a PCB-mount inverted F-antenna specifically for BLE communication.
 - **Visual Feedback**: Addition of LEDs to visually indicate channel activity and BLE connection status.
 
+## PCB Related
+ * **Please see [here](pcb/README.md)
+
 ## Firmware Related
  * **Please see [here](firmware/README.md)**
+ 
 
 ## Further References
  * [Erotic Electro Stimulation](https://en.wikipedia.org/wiki/Erotic_electrostimulation)

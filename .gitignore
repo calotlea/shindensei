@@ -7,6 +7,7 @@ firmware/build
 .DS_Store
 *.log
 .idea
+*-backups
 
 # Prerequisites
 *.d
