@@ -8,7 +8,8 @@
     (title "Pulse Control")
     (date "2023-12-06")
     (company "${Author}")
-    (comment 1 "${Project}")
+    (comment 1 "${Attribution}")
+    (comment 2 "${Project}")
   )
 
   (lib_symbols

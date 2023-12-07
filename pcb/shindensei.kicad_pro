@@ -337,7 +337,8 @@
     ]
   ],
   "text_variables": {
-    "Author": "Lea Calot",
+    "Attribution": "Based on NeoDK",
+    "Author": "Lea Calot, Onwrikbaar (NeoDK Author)",
     "Project": "新電性 - Shindensei"
   }
 }

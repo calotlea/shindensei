@@ -7,7 +7,8 @@
   (title_block
     (title "Output Channel Switch Matrix")
     (company "${Author}")
-    (comment 1 "${Project}")
+    (comment 1 "${Attribution}")
+    (comment 2 "${Project}")
   )
 
   (lib_symbols

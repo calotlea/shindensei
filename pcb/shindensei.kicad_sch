@@ -9,7 +9,8 @@
     (date "2023-12-05")
     (rev "0.1")
     (company "${Author}")
-    (comment 1 "${Project}")
+    (comment 1 "${Attribution}")
+    (comment 2 "${Project}")
   )
 
   (lib_symbols
