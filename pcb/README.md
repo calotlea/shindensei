@@ -30,11 +30,21 @@ your input is valuable. Please follow the contribution guidelines outlined in ou
 
 WiP
 
+### Pulse Control
+
+![Pulse Control](../img/pulse_control.png)
+ 
+ * Generate up to 10V from buck converter
+ * Store in capacitor bank
+ * Bias buck converter feedback to perform level control
+
 ### Switch Matrix
 
 ![Switch Matrix](../img/switch_matrix.png)
 
  * Select one output pair at the time.
+
+
 
 ## Acknowledgments
 A special thanks to the contributors and maintainers of [NeoDK](https://github.com/Onwrikbaar/NeoDK)
