@@ -684,6 +684,10 @@
     (uuid e9d9999f-530b-4656-a90b-aee2f4821f0a)
   )
 
+  (text "50Khz 97.5% PWM\nbest guess" (at 101.6 116.84 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6d2744f5-2c7b-4e6b-b6b8-a9a474a1392d)
+  )
   (text "typical internal\nAA resistance" (at 77.47 69.85 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 795bae9f-52d1-4609-90e8-3525663c6130)
