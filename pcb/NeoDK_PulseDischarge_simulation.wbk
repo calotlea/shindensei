@@ -1,10 +1,10 @@
 version 2
 1
 9
-.tran 1u 510m 500m{return}.kicad adjustpaths{return}.save all{return}.probe alli
+.tran 10u 10m 0{return}.kicad adjustpaths{return}.save all{return}.probe alli
 2
-2
-I(R1)
+1
+V(/vin)
  
 1
 V(/vout)

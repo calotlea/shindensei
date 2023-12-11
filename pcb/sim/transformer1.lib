@@ -1,0 +1,10 @@
+.SUBCKT XFORMER in1 in2 out1 out2 Lin=501m Lout=1.043 Rin=92.8 Rout=345.1
+* inductances
+Li in1 intin {Lin}
+Lo out1 intou {Lout}
+* coupling factors
+K1 Li Lo 1
+* series resistances
+Ri intin in2 {Rin}
+Ro intou out2 {Rout}
+.ENDS XFORMER
