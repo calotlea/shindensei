@@ -1,5 +1,10 @@
 # Shindensei
 
+Note work on this is shelved until [NeoDK](https://github.com/calotlea/NeoDK) can be manufactured.
+
+----
+
+
 ![Banner](img/banner.png)
 
 The name ***"新電性" (Shindensei)*** means "New Electrical Sensuality."
