@@ -17,6 +17,23 @@
   )
 
 
+  (sheet (at 100.33 105.41) (size 24.13 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00591897-79d5-44f1-b250-c4091b9d1ec5)
+    (property "Sheetname" "Power Management" (at 100.33 104.6984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power_management.kicad_sch" (at 100.33 130.1246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "shindensei"
+        (path "/958b377d-2cd7-45e0-91dd-b2d6e2ab8826" (page "4"))
+      )
+    )
+  )
+
   (sheet (at 120.65 45.72) (size 26.67 21.59) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))

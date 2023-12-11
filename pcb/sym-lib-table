@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "sgm61410")(type "KiCad")(uri "${KIPRJMOD}/lib/sgm61410.kicad_sym")(options "")(descr ""))
+  (lib (name "BH-18650-PC")(type "KiCad")(uri "${KIPRJMOD}/lib/BH-18650-PC.kicad_sym")(options "")(descr ""))
+  (lib (name "HX3608")(type "KiCad")(uri "${KIPRJMOD}/lib/HX3608.kicad_sym")(options "")(descr ""))
 )

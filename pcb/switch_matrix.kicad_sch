@@ -1048,7 +1048,7 @@
     (property "Reference" "C5" (at 218.44 95.25 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10uF" (at 218.44 97.79 0)
+    (property "Value" "4.7uF" (at 218.44 97.79 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 215.5952 100.33 0)
