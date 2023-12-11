@@ -817,6 +817,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 20279924-747a-4221-b867-379f12e58576)
   )
+  (text "FIXME: Think MCU\nCheapo STM32 for \neveryone to use or \nmonolithic system"
+    (at 80.01 60.96 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2502d2f7-2831-431a-85c4-c209f6e54cc8)
+  )
   (text "18650 Li-Ion Management" (at 53.34 129.54 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 414abad9-441b-4641-82a8-f385b900e58b)
