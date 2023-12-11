@@ -51,3 +51,4 @@ firmware/build
 *.su
 *.idb
 *.pdb
+*.bak
